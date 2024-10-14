@@ -1,0 +1,18 @@
+.Result-box{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Result-box h1{
+    color: #8338ec;
+}
+
+.Result-box h3{
+    font-size: 30px;
+    color: #8338ec;
+}
